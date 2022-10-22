@@ -1,0 +1,88 @@
+
+body {
+  background: #eed8d8;
+  margin: 0;
+  font-family: 'Poppins';
+}
+
+.navbar {
+  background: rgba(34, 34, 33, 0.588);
+  padding: 2em;
+  font-weight: bold;
+  font-size: 2em;
+  border-radius: 25px;
+
+text-align: center;
+color: rgb(238, 250, 12);
+  text-shadow: 2px 2px 4px #000000;
+ 
+ 
+}
+
+.wrapper
+{
+    margin: 0 auto;
+    padding:0;
+    width: 1000px;
+    height:500px;
+    background: #3205e6;
+    border-style:double;
+  border-color: rgb(191, 167, 242);
+  border-radius: 50px;
+}
+
+.img-eye
+
+{
+    width: 250px;
+    height:500px;
+    float:left;
+    border: 2px solid red;
+  border-radius: 20px;
+
+
+}
+.imgs
+
+{
+    width: 50;
+    height:50px;
+    float:left;
+
+
+}
+
+
+.text{
+    text-align: center;
+    color: white;
+      text-shadow: 2px 2px 4px #000000;
+      font-size: 4em;
+      font-style: italic;
+}
+.Detail{
+    text-align: center;
+    color: white;
+      text-shadow: 2px 2px 4px #000000;
+      font-size: 2em;
+      padding: 2em;
+}
+.Aim{
+    text-align: center;
+    color: rgb(199, 252, 8);
+      text-shadow: 2px 2px 4px #000000;
+      font-size: 2em;
+      padding: 1em;
+}
+.thnk{
+    text-align: center;
+    color: rgb(199, 252, 8);
+      text-shadow: 2px 2px 4px #000000;
+      font-size: 2em;
+      padding: 0.5em;
+}
+
+
+
+
+/*# sourceMappingURL=main.css.map */
